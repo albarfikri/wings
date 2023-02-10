@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">wings</string>
+    <string name="login">Login</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="Price">Price</string>
+    <string name="Dimension">Dimension</string>
+    <string name="Price_Unit">Price Unit</string>
+</resources>
